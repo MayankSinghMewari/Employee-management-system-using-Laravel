@@ -1,3 +1,37 @@
+# Employee-management-system-using-Laravel
+A PHP-based Employee Management System built using the Laravel framework and MySQL. Includes Admin and Employee login, department management, and CRUD operations. Frontend uses HTML. This project helped me learn and strengthen my skills in Laravel and backend development with PHP.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
