@@ -1,0 +1,27 @@
+echo "<pre>";
+    print_r($request->all());
+    //var_dump($request ->all());
+    die;
+The `all()` method returns an array of all the data in the request.
+The `print_r()` function is used to print the array in a readable format.
+
+###########################################################################################################################################################
+
+
+    var_dump($request ->all());
+    die;
+
+The `all()` method returns an array of all the data in the request.
+The `var_dump()` function is used to print the array in a more verbose format.
+
+
+###########################################################################################################################################################
+
+superuser creation
+migration step 1: create a new migration
+Create a users or admins table with fields like:
+
+id, name, email, password, role, is_superuser, timestamps.
+
+$table->boolean('is_superuser')->default(false); // True for superuser
+
